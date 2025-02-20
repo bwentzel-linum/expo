@@ -1,0 +1,1 @@
+{"version":3,"file":"SQLiteOptions.d.ts","sourceRoot":"","sources":["../../src/web/SQLiteOptions.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,iBAAiB,EAAE,MAAM,mBAAmB,CAAC;AAE3D,qBAAa,aAAc,YAAW,iBAAiB;IACrD,oBAAoB,UAAS;IAC7B,gBAAgB,UAAS;IACzB,qCAAqC,UAAQ;gBAEjC,aAAa,EAAE,iBAAiB;IAO5C,MAAM,CAAC,KAAK,EAAE,aAAa,GAAG,OAAO;IAQrC,QAAQ,IAAI,MAAM;CAOnB"}
